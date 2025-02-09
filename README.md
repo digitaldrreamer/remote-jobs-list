@@ -29,38 +29,39 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 
 A list of remote job boards.
 
-|| Site |   Details | * | API |                                                                                                       
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. |💻|
-| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|[JSON](https://jobs.github.com/api)
-| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
-| ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. |💻|
-| ❇️ | [Ethereum Jobs](http://jobs.ethercasts.com/) | Ethereum remote jobs. |💻|[JSON](http://jobs.ethercasts.com/api/jobs) |
-| ❇️ | [We Work Meteor](https://www.weworkmeteor.com/) |Meteor remote jobs. |💻|[JSON](https://www.weworkmeteor.com/api/jobs) |
-| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. |🌟|
-| ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. |🌟|
-| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. |🌟| [JSON](https://authenticjobs.com/api/docs)
-| ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟| [JSON](https://github.com/wfhio/api)|
-| ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
-| ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
-| ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|
-| ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. |🌟|
-| ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | A remote jobs board. |🌟|
-| ❇️ | [Larajobs](http://larajobs.com) | A remote jobs board. |🌟|
-| ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | A remote jobs board. |🌟|
-| ❇️ | [PowerToFly](https://powertofly.com/) | A remote jobs board. |🌟|
-| ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | A remote jobs board. (Has a remote filter) |🌟|
-| ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | A remote jobs board. |🌟|
-| ❇️ | [Remote.co](https://remote.co/remote-jobs/) | A remote jobs board. |🌟|
-| ❇️ | [Remote.com](https://remote.com/jobs) | A remote jobs board. |🌟|
-| ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. |🌟|
-| ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. |🌟|
-| ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. |🌟|
-| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. |🌟| [JSON](https://www.workingnomads.co/api/exposed_jobs/) |
-| ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. |🌟|
-| ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
-| ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
-| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
+|| Site                                                                        | Details                                    | * | API |                                                                                                       
+-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--|--|
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs.                          |💻|
+| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote)    | A tech remote jobs board.                  |💻|[JSON](https://jobs.github.com/api)
+| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html)         | Take's some fishing. Tech remote jobs      |💻|
+| ❇️ | [Hacker News](https://news.ycombinator.com/jobs)                            | Tech remote jobs.                          |💻|
+| ❇️ | [Ethereum Jobs](http://jobs.ethercasts.com/)                                | Ethereum remote jobs.                      |💻|[JSON](http://jobs.ethercasts.com/api/jobs) |
+| ❇️ | [GoRemote Africa](https://goremote.africa)                                  | 100% Remote Jobs.                          |💻| |
+| ❇️ | [We Work Meteor](https://www.weworkmeteor.com/)                             | Meteor remote jobs.                        |💻|[JSON](https://www.weworkmeteor.com/api/jobs) |
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/)                               | A popular remote jobs board.               |🌟|
+| ❇️ | [AngelList](https://angel.co/)                                              | A popular remote jobs board.               |🌟|
+| ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true)                    | A popular remote jobs board.               |🌟| [JSON](https://authenticjobs.com/api/docs)
+| ❇️ | [WFH](https://www.wfh.io/)                                                  | A remote jobs board.                       |🌟| [JSON](https://github.com/wfhio/api)|
+| ❇️ | [Jobspresso](https://jobspresso.co/)                                        | A remote jobs board.                       |🌟|
+| ❇️ | [Remotive](https://remotive.io/)                                            | A remote jobs board.                       |🌟|
+| ❇️ | [Europe Remotely](https://europeremotely.com/)                              | A remote jobs board.                       |🌟|
+| ❇️ | [Flexjobs](https://www.flexjobs.com)                                        | A remote jobs board.                       |🌟|
+| ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true)                       | A remote jobs board.                       |🌟|
+| ❇️ | [Larajobs](http://larajobs.com)                                             | A remote jobs board.                       |🌟|
+| ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers)                   | A remote jobs board.                       |🌟|
+| ❇️ | [PowerToFly](https://powertofly.com/)                                       | A remote jobs board.                       |🌟|
+| ❇️ | [Product Hunt](https://www.producthunt.com/jobs)                            | A remote jobs board. (Has a remote filter) |🌟|
+| ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/)                   | A remote jobs board.                       |🌟|
+| ❇️ | [Remote.co](https://remote.co/remote-jobs/)                                 | A remote jobs board.                       |🌟|
+| ❇️ | [Remote.com](https://remote.com/jobs)                                       | A remote jobs board.                       |🌟|
+| ❇️ | [Remote.jobs](https://remote.jobs/)                                         | A remote jobs board.                       |🌟|
+| ❇️ | [RemoteBase](https://remotebase.io/)                                        | A remote jobs board.                       |🌟|
+| ❇️ | [Remoteur](http://www.remoteur.com/)                                        | A remote jobs board.                       |🌟|
+| ❇️ | [Working Nomads](https://www.workingnomads.co/jobs)                         | A remote jobs board.                       |🌟| [JSON](https://www.workingnomads.co/api/exposed_jobs/) |
+| ❇️ | [No Desk](https://nodesk.co/remote-jobs/)                                   | A remote jobs board.                       |🌟|
+| ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/)                       | A remote jobs board.                       |📱🌟|
+| ❇️ | [Supporting Roles](https://supportingroles.io/)                             | Support remote jobs board.                 |📱|
+| ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere)                     | A designers remote jobs board.             |🎨|
 
 ### ✈️ Remote Companies
 
